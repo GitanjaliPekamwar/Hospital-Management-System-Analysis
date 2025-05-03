@@ -66,7 +66,7 @@ Transform raw hospital data into a powerful Power BI dashboard that empowers hos
 
 ## 🖼️ Dashboard Preview
 
-📁 Check the [[`/PowerBI_Dashboard`](https://github.com/GitanjaliPekamwar/Hospital-Management-System-Analysis/blob/main/Hospital%20management%20Analysis%20Dashboard.pbix)](./PowerBI_Dashboard) folder for screenshots and `.pbix` file.
+📁 Check the [[`/PowerBI_Dashboard`](https://github.com/GitanjaliPekamwar/Hospital-Management-System-Analysis/blob/main/Hospital%20management%20Analysis%20Dashboard.pbix)](./PowerBI_Dashboard) `.pbix` file.
 
 ---
 
@@ -74,11 +74,13 @@ Transform raw hospital data into a powerful Power BI dashboard that empowers hos
 
 ```bash
 Hospital-Management-System-Analysis/
-├── 📊 PowerBI_Dashboard/        # Screenshots & final PBIX file
-├── 📜 SQL_Scripts/              # SQL queries for data preprocessing
-├── 📂 Datasets/                 # Appointment, doctor, patient data (CSV/Excel)
-├── 📄 Insights_Report/          # PDF/PPT insights presentation
+├── 📊 PowerBI_Report/        
+├── 📜 SQL_Scripts/              
+├── 📂 Datasets/                 
+├── 📄 Insights_Report/          
 └── README.md                    # You are here!
+
+---
 
 ## 👩‍💻 Author
 
