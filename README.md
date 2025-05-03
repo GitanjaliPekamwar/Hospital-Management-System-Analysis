@@ -66,7 +66,7 @@ Transform raw hospital data into a powerful Power BI dashboard that empowers hos
 
 ## 🖼️ Dashboard Preview
 
-📁 Check the [`/PowerBI_Dashboard`](./PowerBI_Dashboard) folder for screenshots and `.pbix` file.
+📁 Check the [[`/PowerBI_Dashboard`](https://github.com/GitanjaliPekamwar/Hospital-Management-System-Analysis/blob/main/Hospital%20management%20Analysis%20Dashboard.pbix)](./PowerBI_Dashboard) folder for screenshots and `.pbix` file.
 
 ---
 
