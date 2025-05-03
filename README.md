@@ -79,3 +79,9 @@ Hospital-Management-System-Analysis/
 ├── 📂 Datasets/                 # Appointment, doctor, patient data (CSV/Excel)
 ├── 📄 Insights_Report/          # PDF/PPT insights presentation
 └── README.md                    # You are here!
+
+## 👩‍💻 Author
+
+**Gitanjali Pekamwar**  
+Data Analyst Enthusiast | Tableau | Power BI | SQL | Excel | Python
+🔗 [LinkedIn](https://www.linkedin.com/in/gitanjalipekamwar)
