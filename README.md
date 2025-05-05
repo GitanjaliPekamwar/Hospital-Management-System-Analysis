@@ -3,10 +3,8 @@
 An end-to-end analytics project using **SQL** and **Power BI** to analyze and visualize the performance of a hospital's appointment system. This project identifies key operational issues such as appointment cancellations, departmental load, doctor performance, patient demographics, and payment patterns—enabling data-driven decisions to improve efficiency and patient care.
 
 ---
-## 📸Report Preview
-![Report Sneak Peek](https://github.com/GitanjaliPekamwar/Hospital-Management-System-Analysis/blob/main/Hosital%20Management%20Project/Screenshot%202025-05-03%20192945.png)
-
-
+## 📸Dashboard Preview
+![Report Sneak Peek](https://github.com/GitanjaliPekamwar/Shipment-Tracker-Dashboard/blob/main/Screenshot%202025-05-05%20174649.png)
 ## 📌 Table of Contents
 
 - [Objective](#objective)
