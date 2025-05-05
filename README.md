@@ -4,7 +4,7 @@ An end-to-end analytics project using **SQL** and **Power BI** to analyze and vi
 
 ---
 ## 📸Dashboard Preview
-![Report Sneak Peek](https://github.com/GitanjaliPekamwar/Shipment-Tracker-Dashboard/blob/main/Screenshot%202025-05-05%20174649.png)
+![Report Sneak Peek](https://github.com/GitanjaliPekamwar/Hospital-Management-System-Analysis/blob/main/Hosital%20Management%20Project/Screenshot%202025-05-03%20192945.png)
 ## 📌 Table of Contents
 
 - [Objective](#objective)
